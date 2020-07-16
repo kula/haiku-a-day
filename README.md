@@ -7,7 +7,7 @@ July 2005 and September 2013.
 ## Canonical Source
 
 The canonical location for this source can be found at 
-[http://kula.tproa.net/had/](http://kula.tproa.net/had/). 
+[https://sjnpress.com/zines/had/](https://sjnpress.com/zines/had/). 
 
 ## License
 
